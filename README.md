@@ -8,6 +8,7 @@
 - In my projects I use:
 
 ![Python](icons/python.svg)
+![Django](icons/django.svg)
 ![Docker](icons/docker.svg)
 ![TypeScript](icons/typescript.svg)
 ![React](icons/react.svg)
