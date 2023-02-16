@@ -6,11 +6,11 @@
 
 ![Python](icons/python.svg)
 ![Django](icons/django.svg)
+![Django REST Framework](icons/django-rest-framework.svg)
 ![Docker](icons/docker.svg)
 ![TypeScript](icons/typescript.svg)
 ![React](icons/react.svg)
 ![Next JS](icons/next-js.svg)
-![Prisma](icons/prisma.svg)
 
 - I maintain sites that were developed as part of the [Alt Web](https://github.com/alt-web) project.
 
