@@ -2,9 +2,6 @@
 
 - I'm Ivan Reshetnikov.
 
-[![Pleroma](https://img.shields.io/badge/Pleroma-@lumin-orange?style=for-the-badge&logo=pleroma)](https://comfycamp.space/lumin)
-[![Mail](https://img.shields.io/badge/Mail-ordinarydev-blueviolet?style=for-the-badge&logo=ProtonMail)](mailto:ordinarydev@protonmail.com)
-
 - In my projects I use:
 
 ![Python](icons/python.svg)
