@@ -4,14 +4,13 @@
 
 - In my projects I use:
 
-![Python](icons/python.svg)
-![Django](icons/django.svg)
-![Django REST Framework](icons/django-rest-framework.svg)
-![Docker](icons/docker.svg)
-![TypeScript](icons/typescript.svg)
-![React](icons/react.svg)
-![Next JS](icons/next-js.svg)
+<p float="left">
+    <img src="icons/python.svg" width="24" alt="Python" />
+    <img src="icons/django.svg" width="24" alt="Django" />
+    <img src="icons/docker.svg" width="24" alt="Docker" />
+    <img src="icons/typescript.svg" width="24" alt="Typescript" />
+    <img src="icons/nextdotjs.svg" width="24" alt="Next.JS" />
+    <img src="icons/go.svg" width="24" alt="Golang" />
+</p>
 
-- I maintain sites that were developed as part of the [Alt Web](https://github.com/alt-web) project.
-
-- I have [a game](https://github.com/pixeltrain/student-quest), you can play it at your own risk. I am currently developing [the next game](https://github.com/pixeltrain/btw). Any help is welcome.
+- I have [a game](https://github.com/pixeltrain/student-quest), you can play it at your own risk.
