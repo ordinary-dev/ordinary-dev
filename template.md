@@ -3,7 +3,3 @@
 - I'm Ivan Reshetnikov and I'm a full stack developer.
 - I use Golang and Typescript most often, but I also sometimes use Rust or Python.
 - I maintain my own [Mastodon](https://m.comfycamp.space) and Matrix server, everything works on Nixos.
-
-I have a few projects on Forgejo. Github is not the only place where I post my code.
-
-- [Comfycamp](https://git.comfycamp.space/lumin/comfycamp) - my personal website.
