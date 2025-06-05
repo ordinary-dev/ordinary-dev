@@ -3,7 +3,4 @@
 I'm Ivan Reshetnikov.
 I try to create simple and useful applications.
 
-[Comfy Camp](https://comfycamp.space) is one of my projects.
-It allows you to try out different alternatives to centralized platforms.
-
-I store some of my projects on [my Forgejo server](https://git.comfycamp.space/lumin).
+Want to work with me? Check out my agency's website: [app-house.ru](https://app-house.ru).
